@@ -714,7 +714,7 @@ hash = "cd34bf34ff49c47333b435be7523979037df203f9572bfd0ea5b5f961c86445f"
 
 [[files]]
 file = "config/bwncr-common.toml"
-hash = "b758120a06d5baa142e34cca95de36088b47ac0663e2543dc9023789b59e418e"
+hash = "584d98239b467824f653c4413426955f68ebaefe219765d06b4453ae8d780629"
 
 [[files]]
 file = "config/cabletiers-common.toml"
@@ -942,7 +942,7 @@ hash = "7e893c3cd2837b1c065b6c6f7db8a242048bb48fd28665f15b15b026a087015f"
 
 [[files]]
 file = "config/defaultsettings/Default/keys.txt"
-hash = "1b7838b3aebe4e492843dd29c5c0bc5d7ef956cab55dc0bd6a8102f7562ea5e9"
+hash = "11c3d02b04b273c2e14f108be041b8ff35d24c0c11e52d7f56e1d9177716feeb"
 
 [[files]]
 file = "config/defaultsettings/Default/options.txt"
@@ -2238,7 +2238,7 @@ hash = "e865b39517e3487d2afd6dab751a4e66df4471c18ecefa7109a0e7cecc467cd2"
 
 [[files]]
 file = "config/moreoverlays.toml"
-hash = "bc7082cf82f1d09420a7ee97a32e2a06e0c7f41a00c4cb495d21a3cc8ebc67ce"
+hash = "d9f5e9bc5e18db5c6a1e162f19be64464b8135adf9678b4d800fd390539aa8c0"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
