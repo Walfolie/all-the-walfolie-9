@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitattributes"
-hash = "fde3044ef148b4d732b4eeddab005e84b9d8f99fd91fe5416de70f6567843898"
-
-[[files]]
 file = "blueprints/walfolie/pack.json"
 hash = "e8ab93b3edb34896c53d37cd8711489906256df748af310e1b0500197da936ea"
 
@@ -7395,10 +7391,6 @@ hash = "7057a5b7e5ab8efcc9fa82203d96824be91d13018d74c466cc6e9c492d35f46e"
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.3.txt"
 hash = "ba16a4e4d69a1cbf270c19e52df083f7240b9d98086e8d3af532c2303e700bad"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.3/.gitignore"
-hash = "ee0e8d859eb9f58ca74b6ed86b5837efef55107d1ff89367110f1f27dc68507b"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.3/addedMods.md"

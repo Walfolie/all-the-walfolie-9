@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2 - 2026-07-05
+
+- Pack update.
+
 ## 1.0.1 - 2026-07-05
 
 - Pack update.

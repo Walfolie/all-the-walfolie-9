@@ -46,6 +46,8 @@ desktop.ini
 /.gitattributes
 /.gitignore
 /.packwizignore
+**/.gitattributes
+**/.gitignore
 /.github/
 /dev/
 /docs/

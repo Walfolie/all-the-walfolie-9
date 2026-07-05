@@ -21,6 +21,7 @@ function Set-Utf8TextNoBom([string] $Path, [string] $Text) {
 }
 
 $excludedTopLevelFiles = @(
+    ".gitattributes",
     ".gitignore",
     ".packwizignore",
     "CHANGELOG.md",
@@ -28,6 +29,11 @@ $excludedTopLevelFiles = @(
     "VERSION",
     "index.toml",
     "pack.toml"
+)
+
+$excludedFileNames = @(
+    ".gitattributes",
+    ".gitignore"
 )
 
 $excludedTopLevelDirs = @(
@@ -54,6 +60,7 @@ $allFiles = Get-ChildItem $packPath -Recurse -File -Force | Where-Object {
     $rel = Get-RelativePackPath $packPath $_.FullName
     $top = ($rel -split '/')[0]
     -not $excludedTopLevelFiles.Contains($rel) -and
+    -not $excludedFileNames.Contains($_.Name) -and
     -not $excludedTopLevelDirs.Contains($top) -and
     -not $excludedFileExtensions.Contains($_.Extension.ToLowerInvariant()) -and
     -not ($excludedPathPrefixes | Where-Object { $rel.StartsWith($_) }) -and
