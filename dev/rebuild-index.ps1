@@ -13,7 +13,7 @@ function Get-RelativePackPath([string] $BasePath, [string] $Path) {
 }
 
 function Set-Utf8NoBom([string] $Path, [string[]] $Lines) {
-    [IO.File]::WriteAllLines($Path, $Lines, [Text.UTF8Encoding]::new($false))
+    [IO.File]::WriteAllText($Path, (($Lines -join "`n") + "`n"), [Text.UTF8Encoding]::new($false))
 }
 
 function Set-Utf8TextNoBom([string] $Path, [string] $Text) {
