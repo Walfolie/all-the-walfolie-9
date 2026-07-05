@@ -1,0 +1,37 @@
+# Runtime/generated Minecraft state
+/logs/
+/crash-reports/
+/screenshots/
+/saves/
+/backups/
+/simplebackups/
+/downloads/
+/.mixin.out/
+/journeymap/
+/Distant_Horizons_server_data/
+/immersive_paintings_cache/
+/modernfix/
+
+# Launcher/user-local files
+/options.txt
+/optionsof.txt
+/servers.dat
+/servers.dat_old
+/usercache.json
+/usernamecache.json
+/realms_persistence.json
+/keys.txt
+/hs_err_pid*.log
+/ds_private_storage.json
+
+# Local tools/artifacts
+/tools/
+*.zip
+*.mrpack
+*.tmp
+*.bak
+
+# OS/editor files
+Thumbs.db
+.DS_Store
+desktop.ini

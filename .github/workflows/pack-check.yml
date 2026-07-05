@@ -1,0 +1,32 @@
+name: Pack Check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate index paths and hash
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = "Stop"
+          $pack = Resolve-Path "."
+          $files = Select-String -LiteralPath "index.toml" -Pattern '^file = "(.+)"$' | ForEach-Object { $_.Matches[0].Groups[1].Value }
+          $missing = @($files | Where-Object { -not (Test-Path (Join-Path $pack ($_ -replace '/', '\'))) })
+          if ($missing.Count -gt 0) {
+            $missing | ForEach-Object { Write-Error "Missing indexed file: $_" }
+            exit 1
+          }
+
+          $actualHash = (Get-FileHash -Algorithm SHA256 -LiteralPath "index.toml").Hash.ToLowerInvariant()
+          $packToml = Get-Content "pack.toml" -Raw
+          if ($packToml -notmatch "hash = `"$actualHash`"") {
+            Write-Error "pack.toml index hash does not match index.toml. Run .\dev\rebuild-index.ps1."
+            exit 1
+          }
+
+          Write-Host "Indexed files: $($files.Count)"

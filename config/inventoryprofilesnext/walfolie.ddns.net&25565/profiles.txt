@@ -1,0 +1,98 @@
+
+
+
+
+profile Saved activate HOT7
+	HOT1
+		"mahoutsukai:morgan" -> "Enchantments" : [{id:"minecraft:sharpness",lvl:9},{id:"minecraft:sweeping",lvl:8},{id:"ensorcellation:vorpal",lvl:8},{id:"ensorcellation:leech",lvl:8},{id:"tombstone:magic_siphon",lvl:13},{id:"ensorcellation:frost_aspect",lvl:5},{id:"tombstone:frostbite",lvl:13},{id:"minecraft:looting",lvl:8},{id:"apotheosis:scavenger",lvl:3},{id:"ensorcellation:soulbound",lvl:1}]
+	HOT2
+		"irons_spellbooks:artificer_cane"
+	HOT3
+		"allthemodium:alloy_paxel" -> "Enchantments" : [{id:"minecraft:fortune",lvl:8},{id:"apotheosis:miners_fervor",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	HOT4
+		"comforts:sleeping_bag_black"
+	HEAD
+		"allthewizardgear:unobtainium_mage_helmet" -> "Enchantments" : [{id:"minecraft:protection",lvl:8},{id:"minecraft:projectile_protection",lvl:11},{id:"ensorcellation:xp_boost",lvl:8},{id:"minecraft:respiration",lvl:7},{id:"minecraft:aqua_affinity",lvl:1},{id:"ensorcellation:air_affinity",lvl:1},{id:"apotheosis:icy_thorns",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	CHEST
+		"allthewizardgear:unobtainium_mage_chestplate" -> "Enchantments" : [{id:"minecraft:protection",lvl:8},{id:"minecraft:projectile_protection",lvl:11},{id:"ensorcellation:vitality",lvl:8},{id:"ensorcellation:reach",lvl:8},{id:"apotheosis:icy_thorns",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	LEGS
+		"allthewizardgear:unobtainium_mage_leggings" -> "Enchantments" : [{id:"minecraft:protection",lvl:8},{id:"minecraft:blast_protection",lvl:9},{id:"minecraft:swift_sneak",lvl:5},{id:"apotheosis:icy_thorns",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	FEET
+		"allthewizardgear:unobtainium_mage_boots" -> "Enchantments" : [{id:"minecraft:protection",lvl:8},{id:"minecraft:blast_protection",lvl:9},{id:"minecraft:depth_strider",lvl:7},{id:"minecraft:soul_speed",lvl:7},{id:"minecraft:feather_falling",lvl:11},{id:"apotheosis:icy_thorns",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+
+profile Saved activate HOT5
+	HOT1
+		"mahoutsukai:morgan" -> "Enchantments" : [{id:"minecraft:sharpness",lvl:9},{id:"minecraft:sweeping",lvl:8},{id:"ensorcellation:vorpal",lvl:8},{id:"ensorcellation:leech",lvl:8},{id:"tombstone:magic_siphon",lvl:13},{id:"ensorcellation:frost_aspect",lvl:5},{id:"tombstone:frostbite",lvl:13},{id:"minecraft:looting",lvl:8},{id:"apotheosis:scavenger",lvl:3},{id:"ensorcellation:soulbound",lvl:1}]
+	HOT2
+		"irons_spellbooks:artificer_cane"
+	HOT3
+		"allthemodium:alloy_paxel" -> "Enchantments" : [{id:"minecraft:fortune",lvl:8},{id:"apotheosis:miners_fervor",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	HOT4
+		"comforts:sleeping_bag_black"
+	HOT5
+		"allthemodium:alloy_axe"
+	HOT8
+		"minecraft:enchanted_book"
+	HOT9
+		"waystones:warp_stone"
+	HEAD
+		"allthewizardgear:unobtainium_mage_helmet" -> "Enchantments" : [{id:"minecraft:protection",lvl:8},{id:"minecraft:projectile_protection",lvl:11},{id:"ensorcellation:xp_boost",lvl:8},{id:"minecraft:respiration",lvl:7},{id:"minecraft:aqua_affinity",lvl:1},{id:"ensorcellation:air_affinity",lvl:1},{id:"apotheosis:icy_thorns",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	CHEST
+		"allthewizardgear:unobtainium_mage_chestplate" -> "Enchantments" : [{id:"minecraft:protection",lvl:8},{id:"minecraft:projectile_protection",lvl:11},{id:"ensorcellation:vitality",lvl:8},{id:"ensorcellation:reach",lvl:8},{id:"apotheosis:icy_thorns",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	LEGS
+		"allthewizardgear:unobtainium_mage_leggings" -> "Enchantments" : [{id:"minecraft:protection",lvl:8},{id:"minecraft:blast_protection",lvl:9},{id:"minecraft:swift_sneak",lvl:5},{id:"apotheosis:icy_thorns",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	FEET
+		"allthewizardgear:unobtainium_mage_boots" -> "Enchantments" : [{id:"minecraft:protection",lvl:8},{id:"minecraft:blast_protection",lvl:9},{id:"minecraft:depth_strider",lvl:7},{id:"minecraft:soul_speed",lvl:7},{id:"minecraft:feather_falling",lvl:11},{id:"apotheosis:icy_thorns",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+
+profile Saved activate HOT5
+	HOT1
+		"mahoutsukai:morgan" -> "Enchantments" : [{id:"minecraft:sharpness",lvl:9},{id:"minecraft:sweeping",lvl:8},{id:"ensorcellation:vorpal",lvl:8},{id:"ensorcellation:leech",lvl:8},{id:"tombstone:magic_siphon",lvl:13},{id:"ensorcellation:frost_aspect",lvl:5},{id:"tombstone:frostbite",lvl:13},{id:"minecraft:looting",lvl:8},{id:"apotheosis:scavenger",lvl:3},{id:"ensorcellation:soulbound",lvl:1}]
+	HOT2
+		"irons_spellbooks:artificer_cane"
+	HOT3
+		"allthemodium:alloy_paxel" -> "Enchantments" : [{id:"minecraft:fortune",lvl:8},{id:"apotheosis:miners_fervor",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	HOT4
+		"comforts:sleeping_bag_black"
+	HOT6
+		"minecraft:enchanted_book"
+	HOT7
+		"minecraft:enchanted_book"
+	HOT8
+		"minecraft:enchanted_book"
+	HOT9
+		"waystones:warp_stone"
+	HEAD
+		"allthewizardgear:unobtainium_mage_helmet" -> "Enchantments" : [{id:"minecraft:protection",lvl:8},{id:"minecraft:projectile_protection",lvl:11},{id:"ensorcellation:xp_boost",lvl:8},{id:"minecraft:respiration",lvl:7},{id:"minecraft:aqua_affinity",lvl:1},{id:"ensorcellation:air_affinity",lvl:1},{id:"apotheosis:icy_thorns",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	CHEST
+		"allthewizardgear:unobtainium_mage_chestplate" -> "Enchantments" : [{id:"minecraft:protection",lvl:8},{id:"minecraft:projectile_protection",lvl:11},{id:"ensorcellation:vitality",lvl:8},{id:"ensorcellation:reach",lvl:8},{id:"apotheosis:icy_thorns",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	LEGS
+		"allthewizardgear:unobtainium_mage_leggings" -> "Enchantments" : [{id:"minecraft:protection",lvl:8},{id:"minecraft:blast_protection",lvl:9},{id:"minecraft:swift_sneak",lvl:5},{id:"apotheosis:icy_thorns",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	FEET
+		"allthewizardgear:unobtainium_mage_boots" -> "Enchantments" : [{id:"minecraft:protection",lvl:8},{id:"minecraft:blast_protection",lvl:9},{id:"minecraft:depth_strider",lvl:7},{id:"minecraft:soul_speed",lvl:7},{id:"minecraft:feather_falling",lvl:11},{id:"apotheosis:icy_thorns",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+
+profile Saved activate HOT5
+	HOT1
+		"mahoutsukai:morgan" -> "Enchantments" : [{id:"minecraft:sharpness",lvl:9},{id:"minecraft:sweeping",lvl:8},{id:"ensorcellation:vorpal",lvl:8},{id:"ensorcellation:leech",lvl:8},{id:"tombstone:magic_siphon",lvl:13},{id:"ensorcellation:frost_aspect",lvl:5},{id:"tombstone:frostbite",lvl:13},{id:"minecraft:looting",lvl:8},{id:"apotheosis:scavenger",lvl:3},{id:"ensorcellation:soulbound",lvl:1}]
+	HOT2
+		"irons_spellbooks:artificer_cane"
+	HOT3
+		"allthemodium:alloy_paxel" -> "Enchantments" : [{id:"minecraft:fortune",lvl:8},{id:"apotheosis:miners_fervor",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	HOT4
+		"comforts:sleeping_bag_black"
+	HOT6
+		"minecraft:enchanted_book"
+	HOT7
+		"minecraft:enchanted_book"
+	HOT8
+		"minecraft:enchanted_book"
+	HOT9
+		"waystones:warp_stone"
+	HEAD
+		"allthewizardgear:unobtainium_mage_helmet" -> "Enchantments" : [{id:"minecraft:protection",lvl:8},{id:"minecraft:projectile_protection",lvl:11},{id:"ensorcellation:xp_boost",lvl:8},{id:"minecraft:respiration",lvl:7},{id:"minecraft:aqua_affinity",lvl:1},{id:"ensorcellation:air_affinity",lvl:1},{id:"apotheosis:icy_thorns",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	CHEST
+		"allthewizardgear:unobtainium_mage_chestplate" -> "Enchantments" : [{id:"minecraft:protection",lvl:8},{id:"minecraft:projectile_protection",lvl:11},{id:"ensorcellation:vitality",lvl:8},{id:"ensorcellation:reach",lvl:8},{id:"apotheosis:icy_thorns",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	LEGS
+		"allthewizardgear:unobtainium_mage_leggings" -> "Enchantments" : [{id:"minecraft:protection",lvl:8},{id:"minecraft:blast_protection",lvl:9},{id:"minecraft:swift_sneak",lvl:5},{id:"apotheosis:icy_thorns",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	FEET
+		"allthewizardgear:unobtainium_mage_boots" -> "Enchantments" : [{id:"minecraft:protection",lvl:8},{id:"minecraft:blast_protection",lvl:9},{id:"minecraft:depth_strider",lvl:7},{id:"minecraft:soul_speed",lvl:7},{id:"minecraft:feather_falling",lvl:11},{id:"apotheosis:icy_thorns",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+

@@ -1,0 +1,13 @@
+name = "Music Box: Play YouTube songs"
+filename = "musicbox-forge-2.0.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d8b9e35b60fd35efa7bc47a8a1713d5a3f2c2ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6680610
+project-id = 1111191

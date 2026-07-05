@@ -1,0 +1,13 @@
+name = "HideNameplates"
+filename = "Hide_Nameplates-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6948673614e7745b66dc0a04e08c537ab5b48083"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6615082
+project-id = 1280263
