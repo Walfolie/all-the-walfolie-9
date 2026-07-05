@@ -938,11 +938,11 @@ hash = "456c664072bff23a9d6a45a571d6a09f4b4be2c0ad0423281894d836a4f679a7"
 
 [[files]]
 file = "config/defaultsettings.json"
-hash = "9c860c09698c32b221e8e294012250da68fea7290f484c336edde0600b9de1c2"
+hash = "a3fe7bd8a305c40535fa946b6004b18977607ce204a694bbf023d5a31563f50a"
 
 [[files]]
 file = "config/defaultsettings/Default/keys.txt"
-hash = "11c3d02b04b273c2e14f108be041b8ff35d24c0c11e52d7f56e1d9177716feeb"
+hash = "6cd8c6ef2788224c17c6a0222cc082a3b476f42b0086fef01ead2d77ce9f7b27"
 
 [[files]]
 file = "config/defaultsettings/Default/options.txt"
