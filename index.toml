@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "blueprints/walfolie/pack.json"
-hash = "e8ab93b3edb34896c53d37cd8711489906256df748af310e1b0500197da936ea"
-
-[[files]]
 file = "config/Advancedperipherals/general.toml"
 hash = "6b3115248f87c339c5ae934d586f48df30f039b0254b4c5f187f7fb17e3901dc"
 
@@ -1026,7 +1022,7 @@ hash = "6bcc06d840d9d015790a4b4d7f879a2c7e029d3282bfe4e80189b30a4c59b5f6"
 
 [[files]]
 file = "config/defaultsettings/Default/options.txt"
-hash = "153bea51db16478f62aa21f69bb00eea519e173b9f2ffe713a4981e55410c3a4"
+hash = "eeb13aa8eb6c5b0f74eb85988bff88ebb7c321d3e590b2a437f15550c304f884"
 
 [[files]]
 file = "config/defaultsettings/Default/servers.dat"
@@ -2843,38 +2839,6 @@ hash = "83697e940c40810ce9408dbc6fa60400d84516d7871daf22bd94edf9faa4ae96"
 [[files]]
 file = "config/zeta-common.toml"
 hash = "b5ae0f1685b3136c29758855f06e1eb4fa9878ef78d25b7adcbcd88391074c86"
-
-[[files]]
-file = "defaultconfigs/ftbchunks/client-config.snbt"
-hash = "b170593af4096fcf59a09cfc547045351d3aa65d307983eae0a593a57987c277"
-
-[[files]]
-file = "defaultconfigs/ftbchunks/ftbchunks-world.snbt"
-hash = "d38086563b306abc3217d3c19278543657314b80452e11f0859ffaf2f75f6c60"
-
-[[files]]
-file = "defaultconfigs/ftbessentials-server.snbt"
-hash = "b4864f78b6d0646c8dd6f6bbc37d893b5e2681faae72781140c6fb81cd09424d"
-
-[[files]]
-file = "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
-hash = "d9370c264daed232a167d23424db1d1ae8c01ac00377700fdd345a8a1b7afd75"
-
-[[files]]
-file = "defaultconfigs/ftbquests/client-config.snbt"
-hash = "b882485f06e840273d3d289b6040442b9a93f0c3a7ea01d730e0fea76d246c22"
-
-[[files]]
-file = "defaultconfigs/ftbultimine/ftbultimine-client.snbt"
-hash = "29b00fa9efa03679a1743cad71b994decd0f79a597aaac22994e38278079d226"
-
-[[files]]
-file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
-hash = "7c1bd0be7bef2cfc5702f66bcbe4083e19f8d2a3258ed848fca0e8aa0f32d807"
-
-[[files]]
-file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
-hash = "e30478d4a52c37ab82e44e49f02c191a37822994046ecf5b02014f0bf55ffd97"
 
 [[files]]
 file = "kubejs/CustomPackSettings.json"
