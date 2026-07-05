@@ -938,7 +938,7 @@ hash = "456c664072bff23a9d6a45a571d6a09f4b4be2c0ad0423281894d836a4f679a7"
 
 [[files]]
 file = "config/defaultsettings.json"
-hash = "7e893c3cd2837b1c065b6c6f7db8a242048bb48fd28665f15b15b026a087015f"
+hash = "9c860c09698c32b221e8e294012250da68fea7290f484c336edde0600b9de1c2"
 
 [[files]]
 file = "config/defaultsettings/Default/keys.txt"
@@ -946,7 +946,7 @@ hash = "11c3d02b04b273c2e14f108be041b8ff35d24c0c11e52d7f56e1d9177716feeb"
 
 [[files]]
 file = "config/defaultsettings/Default/options.txt"
-hash = "4e966640f30e7ff64dbcf2f03c10bc7525f192d1113f04ae75f6d5eff9c85d99"
+hash = "060073741bbddabe501d57cbbfa07d9ac42415b3931a662705d5d6ade5950ee4"
 
 [[files]]
 file = "config/deltaboxlib.common.conf"
