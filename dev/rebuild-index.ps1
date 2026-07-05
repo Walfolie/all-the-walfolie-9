@@ -42,7 +42,8 @@ $excludedFileExtensions = @(
     ".bak",
     ".tmp",
     ".log",
-    ".zip"
+    ".zip",
+    ".disabled"
 )
 
 $excludedPathPrefixes = @(

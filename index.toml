@@ -7434,22 +7434,6 @@ file = "packmenu/resources/README.md"
 hash = "afa58cb67bd440b44de0ae27d054f406be6033afc9827bf07670aa03860e0c58"
 
 [[files]]
-file = "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip.disabled"
-hash = "c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7"
-
-[[files]]
-file = "resourcepacks/FA+All_Extensions-v1.8.1.zip.disabled"
-hash = "420ad586300bb4164ff441460ae0d1b2be68933cfd9321746fcef173c0437015"
-
-[[files]]
-file = "resourcepacks/FA+Player-v1.1.zip.disabled"
-hash = "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33"
-
-[[files]]
-file = "resourcepacks/FreshAnimations_v1.10.4.zip.disabled"
-hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
-
-[[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.3.txt"
 hash = "207cfbb523a3a9ab5c7311d1a1fb7b3918192158487792a885f2eb216f840c75"
 

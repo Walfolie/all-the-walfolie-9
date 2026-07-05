@@ -36,6 +36,7 @@
 *.bak
 *.log
 *.zip
+*.disabled
 Thumbs.db
 .DS_Store
 desktop.ini
