@@ -1,0 +1,8 @@
+name = "Not Enough Animations"
+filename = "notenoughanimations-forge-1.12.4-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Walfolie/all-the-walfolie-9/releases/download/manual-mods/notenoughanimations-forge-1.12.4-mc1.20.1.jar"
+hash-format = "sha256"
+hash = "510537a4149e3e838077750dd94906e582195eb55200344077218bddddd688c7"

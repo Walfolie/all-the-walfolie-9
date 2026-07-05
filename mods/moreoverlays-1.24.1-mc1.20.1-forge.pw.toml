@@ -1,0 +1,8 @@
+name = "More Overlays Updated"
+filename = "moreoverlays-1.24.1-mc1.20.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Walfolie/all-the-walfolie-9/releases/download/manual-mods/moreoverlays-1.24.1-mc1.20.1-forge.jar"
+hash-format = "sha256"
+hash = "682640707331db2fc2a43ea023896622d9179849cf74d3313e3ffea8ec3c2371"
