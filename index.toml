@@ -717,10 +717,6 @@ file = "config/buildinggadgets2-common.toml"
 hash = "cd34bf34ff49c47333b435be7523979037df203f9572bfd0ea5b5f961c86445f"
 
 [[files]]
-file = "config/bwncr-common.toml"
-hash = "584d98239b467824f653c4413426955f68ebaefe219765d06b4453ae8d780629"
-
-[[files]]
 file = "config/cabletiers-common.toml"
 hash = "daeb72b5738d64558f6e67342b12a99b50cf131899c1be0d2d640ce203aa51d1"
 
@@ -946,7 +942,7 @@ hash = "7e893c3cd2837b1c065b6c6f7db8a242048bb48fd28665f15b15b026a087015f"
 
 [[files]]
 file = "config/defaultsettings/Default/keys.txt"
-hash = "11c3d02b04b273c2e14f108be041b8ff35d24c0c11e52d7f56e1d9177716feeb"
+hash = "013e80d798a72351eeb2e73442a432c4102f14308ba65e6a6fab67b1d2de5761"
 
 [[files]]
 file = "config/defaultsettings/Default/options.txt"
@@ -1051,10 +1047,6 @@ hash = "d6ff2922e9d2752d80821be3c02abf3bba0ba5e4efd57399553dfd87b9f9561f"
 [[files]]
 file = "config/entity_texture_features.json"
 hash = "d8d72a9ac49bbe45921f1ace5a22c30b65802c5e70829343cf7acfd25f79b8dc"
-
-[[files]]
-file = "config/entityculling.json"
-hash = "038f997d42b64f670ee80d1f66073ddc3b84bf883da3ec9c3325b4fc18a3a0d9"
 
 [[files]]
 file = "config/epicfight/native/ServerCommunicationHelper.dll"
@@ -2241,10 +2233,6 @@ file = "config/moonlight-common.toml"
 hash = "e865b39517e3487d2afd6dab751a4e66df4471c18ecefa7109a0e7cecc467cd2"
 
 [[files]]
-file = "config/moreoverlays.toml"
-hash = "d9f5e9bc5e18db5c6a1e162f19be64464b8135adf9678b4d800fd390539aa8c0"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -2355,10 +2343,6 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 [[files]]
 file = "config/nostartupmessages-common.toml"
 hash = "95c2a693f7620eb05d2816ca996cd4d7b5568df5e0ddff3090e3519542cae9e3"
-
-[[files]]
-file = "config/notenoughanimations.json"
-hash = "59b692e0194eec20f223a9ffbb4305b532b48e53b2393a29625f370f1845a61b"
 
 [[files]]
 file = "config/observable.json"
@@ -4627,11 +4611,6 @@ hash = "528a5c2d50126e1b2906b47449b40a996fce3b4a50b9a0460533f2b7b74f5c99"
 metafile = true
 
 [[files]]
-file = "mods/bwncr-forge-1.20.1-3.17.2.pw.toml"
-hash = "7b82c00d58b304aa7e5c94426610b7a7b6247baa1122dbaa480bd7c7eabb6a6e"
-metafile = true
-
-[[files]]
 file = "mods/cabletiers-1.20.1-1.2.2.pw.toml"
 hash = "a377bba14ea525ae341001546adccc8d1d0b6f254666d38d72f57297b045e8aa"
 metafile = true
@@ -4976,11 +4955,6 @@ hash = "48d621f055c242082a47a9df3770b38000889b9e2b0e0d14c014ad1ae35968c4"
 metafile = true
 
 [[files]]
-file = "mods/entityculling-forge-1.10.5-mc1.20.1.pw.toml"
-hash = "37c8fd64e324fae219a25f9937dad68e2a88ab17a5cd8c3f09029a92afc47641"
-metafile = true
-
-[[files]]
 file = "mods/epherolib-1.20.1-forge-1.2.0.pw.toml"
 hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
 metafile = true
@@ -5213,11 +5187,6 @@ metafile = true
 [[files]]
 file = "mods/harvest-with-ease-forge-1.20.1-9.4.0.pw.toml"
 hash = "7b67b9d65c5d2077116dec0f40ed853f6b0c17b82308331f037c74eea23d4291"
-metafile = true
-
-[[files]]
-file = "mods/hide_nameplates-1.0.pw.toml"
-hash = "d7edc256eacaf1a55392f40f9c652e147c387f2a2e7e7e8e1bd8528dd84e0853"
 metafile = true
 
 [[files]]
@@ -5541,11 +5510,6 @@ hash = "df7a58af5cb547cb765642ee4ed563fa15c59d9e6f44d99229541d4d1d32c84b"
 metafile = true
 
 [[files]]
-file = "mods/moreoverlays-1.24.1-mc1.20.1-forge.pw.toml"
-hash = "18155f139f536592c795f18eae975a82b0200f800693e873316b9157efb6df7b"
-metafile = true
-
-[[files]]
 file = "mods/mousetweaks-forge-mc1.20.1-2.25.1.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
@@ -5608,11 +5572,6 @@ metafile = true
 [[files]]
 file = "mods/noflyzone-1.20.1-1.1.0.pw.toml"
 hash = "2c59ce4920b47eb566e1a4e68630851f0d8c6fcb0808eaa561eb178e5db6ac76"
-metafile = true
-
-[[files]]
-file = "mods/notenoughanimations-forge-1.12.4-mc1.20.1.pw.toml"
-hash = "1477857fc4870fa03596e4a60fe2912ae74aa624002728c0a2fc747100a14892"
 metafile = true
 
 [[files]]

@@ -68,8 +68,6 @@ key.ftbchunks.minimap.zoomIn:key.keyboard.equal:NONE
 key.ftbchunks.minimap.zoomOut:key.keyboard.minus:NONE
 key.ftbchunks.add_waypoint:key.keyboard.unknown:NONE
 key.ftbchunks.waypoint_manager:key.keyboard.unknown:NONE
-key.moreoverlays.lightoverlay.desc:key.keyboard.f7:NONE
-key.moreoverlays.chunkbounds.desc:key.keyboard.f9:NONE
 key.sfm.more_info:key.keyboard.left.shift:NONE
 crafting_on_a_stick.key.open_curios:key.keyboard.unknown:NONE
 key.trashslot.toggle:key.keyboard.t:NONE
@@ -211,4 +209,3 @@ key.occultism.familiar.mummy_familiar:key.keyboard.unknown:NONE
 key.occultism.familiar.beaver_familiar:key.keyboard.unknown:NONE
 key.open_muffler_gui:key.keyboard.unknown:NONE
 cos.key.opencosarmorinventory:key.keyboard.unknown:NONE
-key.entityculling.toggle:key.keyboard.unknown:NONE

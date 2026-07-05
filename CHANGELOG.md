@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1 - 2026-07-05
+
+- Pack update.
+
 ## 1.0.0 - 2026-07-05
 
 - Initial packwiz migration from the CurseForge `TEST` profile.
