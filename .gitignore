@@ -12,6 +12,8 @@
 /immersive_paintings_cache/
 /modernfix/
 /local/ftbchunks/data/
+/serverconfigs/
+/servermods/
 
 # Launcher/user-local files
 /options.txt

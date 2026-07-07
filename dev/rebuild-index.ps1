@@ -41,6 +41,8 @@ $excludedTopLevelDirs = @(
     ".github",
     "dev",
     "docs",
+    "serverconfigs",
+    "servermods",
     "tools"
 )
 

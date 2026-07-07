@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.8 - 2026-07-07
+
+- Pack update.
+
 ## 1.0.7 - 2026-07-06
 
 - Pack update.

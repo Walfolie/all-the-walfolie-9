@@ -1,6 +1,6 @@
 name = "Chloride (Previously Embeddium++/Sodium++)"
 filename = "chloride-FORGE-mc1.20.1-v1.7.5.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
