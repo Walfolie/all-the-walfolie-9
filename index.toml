@@ -4643,10 +4643,6 @@ hash = "b7b5d139282c441057c253e1d01d8333ed22b377a75242edac5c78bb26907ab2"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked-1.20.1-forge-1.120.0.jar"
-hash = "f3cde5a1aa20ca6ace802fed8250920d73c000e32a392f887b02315dfc678e90"
-
-[[files]]
 file = "mods/charginggadgets-1.11.0.pw.toml"
 hash = "f5cb29abad0f88ca25bf862f1e012acaeacccd3b7bca2790e8a8a6a3606ab1fc"
 metafile = true
