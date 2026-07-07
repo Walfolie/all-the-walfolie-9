@@ -19,6 +19,37 @@
 /serverconfigs/
 /servermods/
 
+# Personal/client UI, HUD, controls and per-player state
+/config/inventoryprofilesnext/
+/config/jei/world/
+/config/justzoom/
+/config/jade/
+/config/pneumaticcraft/PneumaticArmorHUDLayout.cfg
+/config/pneumaticcraft/ArmorFeatureStatus.cfg
+/config/dynamic_resource_bars-client.json
+/config/visualhealth.json
+/config/mobhealthbar-client.toml
+/config/appleskin-client.toml
+/config/MouseTweaks.cfg
+/config/notenoughanimations.json
+/config/firstperson.json
+/config/betterthirdperson-common.toml
+/config/darkmodeeverywhere-client.toml
+/config/extremesoundmuffler-client.toml
+/config/sidebar_buttons.json
+/config/toastcontrol-common.toml
+
+# Personal graphics/performance preferences
+/config/embeddium-options.json
+/config/embeddium-fingerprint.json
+/config/oculus.properties
+/config/DistantHorizons.toml
+/config/entityculling.json
+/config/entity_model_features.json
+/config/entity_texture_features.json
+/config/immediatelyfast.json
+/config/modernfix-mixins.properties
+
 # User-local settings
 /options.txt
 /optionsof.txt

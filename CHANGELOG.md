@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.12 - 2026-07-07
+
+- Stop shipping personal UI, HUD, performance, JEI bookmark, Jade, Inventory Profiles Next, and JourneyMap-adjacent client state.
+- Keep those files ignored in Git, Packwiz, and the custom index rebuild script.
+
 ## 1.0.11 - 2026-07-07
 
 - Resolve CC: Tweaked through Modrinth metadata at 1.120.0.
