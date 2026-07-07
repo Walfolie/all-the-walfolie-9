@@ -20,7 +20,6 @@
 /servermods/
 
 # Personal/client UI, HUD, controls and per-player state
-/config/inventoryprofilesnext/
 /config/jei/world/
 /config/justzoom/
 /config/jade/

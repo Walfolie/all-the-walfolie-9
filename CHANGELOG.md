@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.14 - 2026-07-07
+
+- Add Inventory Profiles Next configs back to the managed pack.
+
 ## 1.0.13 - 2026-07-07
 
 - Downgrade FTB Chunks from 2001.3.8 to 2001.3.6 to avoid the JourneyMap config save issue.

@@ -1793,6 +1793,50 @@ file = "config/inventoryessentials-common.toml"
 hash = "5a97f6571fb1623890636d69fc9c87f812b509415a0b78e30eaf0eee2a975570"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/ae2.json"
+hash = "4ff0f64eb3a94adcb3c0935b6fe57ce9e7a474625cb1a53ef75beeb2b898c686"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/integrateddynamics.json"
+hash = "4b3d51e9165fc0c62b9edddd66255cc302d29725f99740e2f71577d5a71916c8"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/refinedstorage.json"
+hash = "eb978f434de8588864835fbef33ad8cd8bd6434598668d69a16042425d5f50a5"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/sophisticatedbackpacks.json"
+hash = "f7309cfa1b5dafba992e5414a8fb36388f266e5d34c3a92d387d81f38719f49b"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/sophisticatedstorage.json"
+hash = "fb15709c8e1dbf11b641b026d39eeb4d699c08639d59c89ed2bed882214ebd2b"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "3103a3c2cda2756a00ada7c1e34cd7421b5e598f0329bce66fa896ae556e5e6b"
+
+[[files]]
+file = "config/inventoryprofilesnext/New World/villager-trading-config.json"
+hash = "f29718046d40f2d1e613d59b38c32161b710542ac708816263f1727927b029a3"
+
+[[files]]
+file = "config/inventoryprofilesnext/villager-trading-config.json"
+hash = "f29718046d40f2d1e613d59b38c32161b710542ac708816263f1727927b029a3"
+
+[[files]]
+file = "config/inventoryprofilesnext/walfolie.ddns.net&25565/profiles.txt"
+hash = "4d82154f93d4e043f0fc1ee10c7a500fcfa866c1b31ec95128ff4cd00e1f345c"
+
+[[files]]
+file = "config/inventoryprofilesnext/walfolie.ddns.net&25565/villager-trading-config.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
 file = "config/ironfurnaces.toml"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 

@@ -56,7 +56,6 @@ $excludedFileExtensions = @(
 
 $excludedPathPrefixes = @(
     "local/ftbchunks/data/",
-    "config/inventoryprofilesnext/",
     "config/jei/world/",
     "config/justzoom/",
     "config/jade/"
