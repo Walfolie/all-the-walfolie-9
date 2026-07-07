@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.15 - 2026-07-07
+
+- Add Colorwheel and Colorwheel Patcher as client-only mods.
+
 ## 1.0.14 - 2026-07-07
 
 - Add Inventory Profiles Next configs back to the managed pack.

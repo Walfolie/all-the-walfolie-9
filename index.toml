@@ -4583,6 +4583,16 @@ hash = "20fcd633516ef654e4a1546ab7e1cd4e22bc96a087544ae583f85df9b7a65468"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "a85ba7ba18bb361e24447e4d15aabf988c391a110f77514301636b31397613e5"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "83acb0182aa695bf742ad2b0f6ddf034d6bae2bb015eb0f63e4073758ba66c0f"
+metafile = true
+
+[[files]]
 file = "mods/comforts-forge-6.4.0+1.20.1.pw.toml"
 hash = "58bf97ca61f74ea9a540f6e6090aef631155748c49b83a7a338b34d8dece9109"
 metafile = true
