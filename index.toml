@@ -4638,8 +4638,8 @@ hash = "da069e723737ae49203f7572eb774be0fd21f5f083ce7a7ee1bed25916befca8"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked-1.20.1-forge-1.113.1.pw.toml"
-hash = "b7b5d139282c441057c253e1d01d8333ed22b377a75242edac5c78bb26907ab2"
+file = "mods/cc-tweaked.pw.toml"
+hash = "ca55f3ceb2ccbf454645c4eb691109220ad14205ca2592caf46223d81f73ced3"
 metafile = true
 
 [[files]]

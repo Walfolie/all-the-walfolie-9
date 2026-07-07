@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.11 - 2026-07-07
+
+- Resolve CC: Tweaked through Modrinth metadata at 1.120.0.
+
 ## 1.0.10 - 2026-07-07
 
 - Pack update.

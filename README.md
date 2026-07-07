@@ -2,9 +2,7 @@
 
 Minecraft `1.20.1` with Forge `47.4.20`, migrated from the CurseForge profile `TEST`.
 
-This pack uses CurseForge metadata for the enabled tracked add-ons. The one enabled local jar that CurseForge did not track is included directly:
-
-- `mods/cc-tweaked-1.20.1-forge-1.120.0.jar`
+This pack uses provider metadata for enabled tracked add-ons. CC: Tweaked is resolved through Modrinth metadata.
 
 ## Setup
 
