@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.16 - 2026-07-07
+
+- Pin FTB Chunks at 2001.3.6 by removing its automatic update metadata.
+
 ## 1.0.15 - 2026-07-07
 
 - Add Colorwheel and Colorwheel Patcher as client-only mods.
