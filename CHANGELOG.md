@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.18 - 2026-07-08
+
+- Publish the Quick Skin-free pack state after removing the client mod.
+
 ## 1.0.17 - 2026-07-07
 
 - Remove Quick Skin before publishing the pack update.
