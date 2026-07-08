@@ -5613,11 +5613,6 @@ hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
 
 [[files]]
-file = "mods/quick-skin.pw.toml"
-hash = "319bf4fb4437bc3dde43e35db683c65f997613c42d7320388b95b60005f35739"
-metafile = true
-
-[[files]]
 file = "mods/rebornstorage-1.20.1-5.0.7.pw.toml"
 hash = "02bdcb95ad370287103eacc5edc4fb84f0054a509de3b5a5699bf35f0c9f0dce"
 metafile = true

@@ -2,7 +2,7 @@
 
 ## 1.0.17 - 2026-07-07
 
-- Add Quick Skin as a client-only mod.
+- Remove Quick Skin before publishing the pack update.
 
 ## 1.0.16 - 2026-07-07
 
