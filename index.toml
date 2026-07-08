@@ -5718,6 +5718,11 @@ hash = "74d266052c0ad2203ed80d71680698e1ee973952929ae1267101282cab5b320e"
 metafile = true
 
 [[files]]
+file = "mods/sgjourney.pw.toml"
+hash = "09d42b6b1992b3cb5fdcaeb52183202ba229e74589e8d0ff708f4ea76363fd6b"
+metafile = true
+
+[[files]]
 file = "mods/shetiphiancore-forge-1.20.1-1.5.pw.toml"
 hash = "7b74687503a817ae7e7a8145996f0a09ddab38933af1e244b324083aeed2fa16"
 metafile = true
@@ -5805,11 +5810,6 @@ metafile = true
 [[files]]
 file = "mods/spark-1.10.53-forge.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
-metafile = true
-
-[[files]]
-file = "mods/stargate-journey-1.20.1-0.6.44.pw.toml"
-hash = "cc9c9de7adeee84b71f192a77bd5851a86a9156fac5409d2b10d79eb6631f96f"
 metafile = true
 
 [[files]]

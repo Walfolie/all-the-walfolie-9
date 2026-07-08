@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.20 - 2026-07-08
+
+- Downgrade Stargate Journey to 1.20.1 - 0.6.33 Hotfix.
+
 ## 1.0.19 - 2026-07-08
 
 - Add Interdimensional Wireless Transmitter and Shoulder Surfing Reloaded; remove Better Third Person.
