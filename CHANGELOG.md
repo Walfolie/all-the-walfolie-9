@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.19 - 2026-07-08
+
+- Add Interdimensional Wireless Transmitter and Shoulder Surfing Reloaded; remove Better Third Person.
+
 ## 1.0.18 - 2026-07-08
 
 - Publish the Quick Skin-free pack state after removing the client mod.

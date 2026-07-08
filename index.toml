@@ -4443,11 +4443,6 @@ hash = "4a71c639cc4e8637c7a006c572a9a85ccd4784f5544acf8a027f4e216958008d"
 metafile = true
 
 [[files]]
-file = "mods/betterthirdperson-forge-1.20-1.9.0.pw.toml"
-hash = "9f547ab30cc07d0831d0a066032a832dcb16dd7a5aa77c4c7efeaa29d8c10431"
-metafile = true
-
-[[files]]
 file = "mods/biomesoplenty-forge-1.20.1-19.0.0.96.pw.toml"
 hash = "83ba38ab1e5b583227e9d37b8fea91ac1fcb4e2f67ba86800c5d7aa4024d2993"
 metafile = true
@@ -5168,6 +5163,11 @@ hash = "cb2fdd24ac8bc392cfb22757c422ae7e55d7891ef0fa29b2895d0d5718a993b8"
 metafile = true
 
 [[files]]
+file = "mods/interdimensional-wireless-transmitter.pw.toml"
+hash = "32aa723703e3ad3d3d8f0d7a65dc8ab2f5b33623f285dd5693c171efe8bb00e7"
+metafile = true
+
+[[files]]
 file = "mods/inventoryessentials-forge-1.20.1-8.2.18.pw.toml"
 hash = "fbc209f3292d63394b8821363f72340e09dd663666a27c081c1d3b7283559306"
 metafile = true
@@ -5720,6 +5720,11 @@ metafile = true
 [[files]]
 file = "mods/shetiphiancore-forge-1.20.1-1.5.pw.toml"
 hash = "7b74687503a817ae7e7a8145996f0a09ddab38933af1e244b324083aeed2fa16"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "b575c7ab381a3078c66464150c1bf669e33bd0c02bdc3e9dea497457a7c4888b"
 metafile = true
 
 [[files]]
