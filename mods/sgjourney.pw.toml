@@ -1,6 +1,7 @@
 name = "Stargate Journey"
 filename = "Stargate Journey-1.20.1-0.6.33 Hotfix.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

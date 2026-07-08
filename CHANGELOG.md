@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.21 - 2026-07-08
+
+- Pin Chloride, KubeJS, Stargate Journey, and FTB Chunks while preserving installer metadata.
+
 ## 1.0.20 - 2026-07-08
 
 - Downgrade Stargate Journey to 1.20.1 - 0.6.33 Hotfix.

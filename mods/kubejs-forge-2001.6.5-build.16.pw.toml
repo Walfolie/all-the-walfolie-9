@@ -1,6 +1,7 @@
 name = "KubeJS"
 filename = "kubejs-forge-2001.6.5-build.16.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
