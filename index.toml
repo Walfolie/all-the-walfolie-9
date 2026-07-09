@@ -5728,11 +5728,6 @@ hash = "7b74687503a817ae7e7a8145996f0a09ddab38933af1e244b324083aeed2fa16"
 metafile = true
 
 [[files]]
-file = "mods/shoulder-surfing-irons-spells-integration.pw.toml"
-hash = "995395688e47ee7c69c1280d41997d855e297cf71554bc31b7faad1bb44b4887"
-metafile = true
-
-[[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "89a461057abedaa42dfb064058d12a43b710202dbbf66808bdf4c0417d130564"
 metafile = true
