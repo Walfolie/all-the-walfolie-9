@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.22 - 2026-07-09
+
+- Update Tooltip Overhaul, Shoulder Surfing, Sophisticated Core, Sophisticated Storage, Cupboard, Corail Tombstone, and Distant Horizons; enable Distant Horizons on clients and servers.
+
 ## 1.0.21 - 2026-07-08
 
 - Pin Chloride, KubeJS, Stargate Journey, and FTB Chunks while preserving installer metadata.

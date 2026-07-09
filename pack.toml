@@ -1,12 +1,12 @@
 name = "All the Walfolie 9"
 author = "Marcel Petras"
-version = "1.0.21"
+version = "1.0.22"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ae25d65a53b51aece04e79efe22fa262c04144d4b89088f11172496665e72cc4"
+hash = "33f84fbedd548749f17808dd151a39c3e503fd38f6c3101afd2cac45e9cf9cd7"
 
 [versions]
 forge = "47.4.20"

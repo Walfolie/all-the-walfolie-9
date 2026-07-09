@@ -1,13 +1,13 @@
 name = "Tooltip Overhaul"
-filename = "tooltipoverhaul-forge-1.20.1-1.5.0.jar"
+filename = "tooltipoverhaul-forge-1.20.1-1.5.2.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "596a262b1f2d6c374ecb5da87e0013683022717e"
+hash = "31d0bb7df98e8bfa5a61377f5b2e57e77820cd46"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8368399
+file-id = 8380594
 project-id = 1327508
